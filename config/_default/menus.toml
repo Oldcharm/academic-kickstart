@@ -15,12 +15,12 @@
 
 [[main]]
   name = "Experiences"
-  url = "#experiences"
+  url = "#experience"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publication"
   weight = 40
 
 [[main]]
