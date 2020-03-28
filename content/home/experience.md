@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2019-08-01"
   date_end = ""
   description = """
-  - wrote a review on photothermal therapy for tissue engineering and regenerative medicine
-  - designed an antibacterial scaffold integrating electrospun nanofibers and phase change materials"""
+  - Wrote a review on photothermal therapy for tissue engineering and regenerative medicine
+  - Designed an antibacterial scaffold integrating electrospun nanofibers and phase change materials"""
 
 [[experience]]
   title = "Undergraduate Research Assistant"
