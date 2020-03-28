@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yichao Guan
+name: Oldcharm
 
 # Username (this should match the folder name)
 authors:
