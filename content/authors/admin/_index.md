@@ -52,9 +52,9 @@ user_groups:
 - Visitors
 ---
 
-- I’m a second-year undergraduate in the School of Material Science at Beijing University of Chemical Technology.
+- I’m a second-year undergraduate in [the School of Material Science at Beijing University of Chemical Technology](http://www.cmse.buct.edu.cn/).
 - I study Polymer Science and Engineering with a minor major in Biology. 
-- I am doing remote research on the cell envelope of Gram negative bacteria advised by Professor Markus Basan, mentored by Severin Schink. 
-- Prior to that, I joined Professor Jiajia Xue's lab last summer. I have an ongoing project on antibacterial wound dressing based on electrospun materials.
+- I am doing remote research on the cell envelope of Gram negative bacteria advised by Professor [Markus Basan](http://scholar.google.com/citations?user=yjfGWV8AAAAJ&hl=zh-CN), mentored by [Severin Schink](http://scholar.google.com/citations?user=yPvEFiYAAAAJ&hl=de). 
+- Prior to that, I joined Professor [Jiajia Xue](http://scholar.google.com/citations?user=dnXt1ZoAAAAJ&hl=zh-CN)'s lab last summer. I have an ongoing project on antibacterial wound dressing based on electrospun materials.
 - My research interests generally lie in the area of systems biology and bioinformatics. I am enthusiastic about exploring biological topics with both theoretical and experimental approaches.
 
