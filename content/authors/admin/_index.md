@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate of Polymer Science and Engineering, BUCT
+role: Undergraduate of Polymer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
