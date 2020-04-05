@@ -29,12 +29,12 @@ date_format = "Jan 2006"
   - Designed an antibacterial scaffold integrating electrospun nanofibers and phase change materials"""
 
 [[experience]]
-  title = "Undergraduate Research Assistant"
-  company = "Basan's lab"
+  title = "Remote Research Assistant"
+  company = "Basan's lab, Systems Biology of Harvard Medical School"
   company_url = "https://basan.med.harvard.edu/"
-  location = "Work from home"
+  location = "Boston"
   date_start = "2020-02-01"
   date_end = ""
-  description = """Developing a model for the cell envelope of Gram negative bacteria"""
+  description = """Trying to dissect the cell envelope's  contributions to the stiffness and strength of Gram-negative bacteria"""
 
 +++
