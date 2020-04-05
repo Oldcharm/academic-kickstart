@@ -35,6 +35,7 @@ date_format = "Jan 2006"
   location = "Boston"
   date_start = "2020-02-01"
   date_end = ""
-  description = """Trying to dissect the cell envelope's  contributions to the stiffness and strength of Gram-negative bacteria"""
+  description = """
+  - Trying to dissect the cell envelope's  contributions to the stiffness and strength of Gram-negative bacteria"""
 
 +++
