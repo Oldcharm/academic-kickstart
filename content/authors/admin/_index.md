@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Oldcharm
+name: Yichao Guan
 
 # Username (this should match the folder name)
 authors:
@@ -19,7 +19,6 @@ organizations:
 
 Interests:
 - Biomaterials
-- Computatinal Biology
 - Systems Biology
 
 # Social/Academic Networking
@@ -36,11 +35,11 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Oldcharm
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
- # icon_pack: ai
- # link: files/cv.pdf
+ Link to a PDF of your resume/CV from the About widget.
+ To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
